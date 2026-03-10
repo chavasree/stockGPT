@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+ta
+nsetools
+streamlit
+plotly
+python-dotenv
